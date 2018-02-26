@@ -5,5 +5,10 @@
 @endsection
 
 @section('content')
-  This is the content!!
+  <div class="row">
+    <div span="col-6">
+
+    </div>
+
+  </div>
 @endsection
